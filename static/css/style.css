@@ -1,0 +1,45 @@
+.content {
+	/*width: 100px;
+	height:100px;*/
+	/*background-color: gray;*/
+	min-height: 800px;
+	/*background-color: rgb(0,50,0);*/
+/*background-image: linear-gradient(315deg, #63d471 10%, #fff 100%);*/
+}
+.headmap{
+	padding:10px;
+}
+#webchat{
+	height:600px;
+	position: relative;
+}
+.widget-container.chat-open{
+	/*height:300px !important;*/
+}
+
+.table thead th,td{
+	max-width: 70px !important;
+	min-width: 70px !important;
+	min-height: 60px;
+	font-size: 10px !important;
+	word-wrap: break-word;
+	text-align: center;
+
+}
+.table tbody th,td{
+	max-width: 70px;
+	min-width: 70px;
+	min-height: 60px;
+	font-size: 10px;
+	word-wrap: break-word;
+	text-align: center;
+}
+.table thead th,td{
+	padding: .5rem !important;
+}
+.table tbody th,td{
+	padding: .5rem !important;
+}
+.container {
+    width: 100% important;
+}

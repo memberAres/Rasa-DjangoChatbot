@@ -1,0 +1,2 @@
+model_checkpoint_path: "G:\\myproject\\python\\eagelbotv1\\rasa-bot\\models/nlu/default\\model_20190704-094700\\component_5_EmbeddingIntentClassifier.ckpt"
+all_model_checkpoint_paths: "G:\\myproject\\python\\eagelbotv1\\rasa-bot\\models/nlu/default\\model_20190704-094700\\component_5_EmbeddingIntentClassifier.ckpt"

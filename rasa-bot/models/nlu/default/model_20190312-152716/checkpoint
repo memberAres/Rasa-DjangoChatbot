@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/hxo/Documents/djangoBot/chat/rasa-bot/models/nlu/default/model_20190312-152716/intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "/home/hxo/Documents/djangoBot/chat/rasa-bot/models/nlu/default/model_20190312-152716/intent_classifier_tensorflow_embedding.ckpt"

@@ -1,0 +1,2 @@
+model_checkpoint_path: "F:\\git\\New folder\\Rasa-DjangoChatbot\\rasa-bot\\models/nlu/default\\model_20190703-065116\\component_5_EmbeddingIntentClassifier.ckpt"
+all_model_checkpoint_paths: "F:\\git\\New folder\\Rasa-DjangoChatbot\\rasa-bot\\models/nlu/default\\model_20190703-065116\\component_5_EmbeddingIntentClassifier.ckpt"

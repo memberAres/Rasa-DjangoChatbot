@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:\\Django\\eagelbotv1\\rasa-bot\\models/nlu/default\\model_20190703-192013\\component_5_EmbeddingIntentClassifier.ckpt"
+all_model_checkpoint_paths: "E:\\Django\\eagelbotv1\\rasa-bot\\models/nlu/default\\model_20190703-192013\\component_5_EmbeddingIntentClassifier.ckpt"
